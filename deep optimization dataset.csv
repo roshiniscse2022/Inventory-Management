@@ -1,0 +1,46 @@
+Date,Product ID,quantity sold,Selling Price,store id,product name,Lead Time,warehouse id,location,Supplier ID,supplier name,order date,delivery date,last Inventory update,Quantity on hand,reorder Level,Demand,Order Quantity,Cost Price
+8/15/2022,1001,5,25.99,1001,Organic Cotton T-Shirt,14,1001,"New York, USA",1001,Fair Trade Clothing Co.,08-01-2022,8/15/2022,8/14/2022,25,15,10,15,127.95
+8/16/2022,1002,3,39.99,1002,Handmade Ceramic Mug,21,1002,"Tokyo, Japan",1002,Artisan Pottery Studio,08-03-2022,8/16/2022,8/15/2022,22,12,8,10,119.97
+8/17/2022,1003,4,14.99,1003,Bamboo Toothbrush Set,7,1003,"Sydney, Australia",1003,Eco-Friendly Goods Co.,08-04-2022,8/17/2022,8/16/2022,30,18,12,15,59.97
+8/18/2022,1004,2,59.99,1004,Handwoven Rug,28,1004,"Cairo, Egypt",1004,Craftsmen Cooperative,08-05-2022,8/18/2022,8/17/2022,18,10,6,8,119.98
+8/19/2022,1005,6,19.99,1005,Recycled Paper Notebook,10,1005,"Paris, France",1005,Green Stationery Co.,08-06-2022,8/19/2022,8/18/2022,28,15,12,15,129.94
+8/20/2022,1006,7,24.99,1006,Handmade Soap Set,14,1006,"Berlin, Germany",1006,Natural Beauty Co.,08-07-2022,8/20/2022,8/19/2022,35,18,12,15,174.93
+8/21/2022,1007,3,49.99,1007,Handmade Leather Wallet,21,1007,"Cape Town, South Africa",1007,Artisan Leather Goods,08-08-2022,8/21/2022,8/20/2022,27,12,8,10,249.91
+8/22/2022,1008,5,29.99,1008,Fair Trade Coffee Beans,12,1008,"Rio de Janeiro, Brazil",1008,Fair Trade Coffee Co.,08-09-2022,8/22/2022,8/21/2022,32,18,12,15,149.95
+8/23/2022,1009,4,34.99,1009,Handwoven Basket,28,1009,"Istanbul, Turkey",1009,Craftsmen Cooperative,08-10-2022,8/23/2022,8/22/2022,25,10,6,8,149.96
+9/15/2022,1001,5,12.99,1001,Organic Cotton T-Shirt,14,101,New York,2001,EcoFashion Inc.,09-01-2022,9/14/2022,9/13/2022,20,15,10,5,64.95
+9/16/2022,1002,3,24.99,1002,Handwoven Raffia Basket,21,102,Los Angeles,2002,Artisan Cooperative,09-02-2022,9/15/2022,9/14/2022,12,10,5,3,74.97
+9/17/2022,1003,7,9.99,1003,Bamboo Toothbrush Set,7,103,Chicago,2003,EcoBrush Co.,09-03-2022,9/16/2022,9/15/2022,25,20,10,7,69.93
+9/18/2022,1004,4,19.99,1004,Handmade Ceramic Mug,10,104,Miami,2004,Ceramic Artisans,09-04-2022,9/17/2022,9/16/2022,18,15,5,4,89.96
+9/20/2022,1005,6,14.99,1005,Recycled Paper Notebook,12,105,Seattle,2005,GreenPaper Co.,09-05-2022,9/19/2022,9/18/2022,22,20,10,6,94.94
+9/22/2022,1006,2,39.99,1006,Handmade Leather Journal,15,106,Boston,2006,Leather Craftsmen,09-06-2022,9/21/2022,9/20/2022,15,10,5,2,79.98
+9/24/2022,1007,8,17.99,1007,Organic Cotton Scarf,11,107,San Francisco,2007,EcoFashion Inc.,09-07-2022,9/23/2022,9/22/2022,28,15,10,8,143.92
+9/27/2022,1008,1,49.99,1008,Handwoven Raffia Bag,28,108,New York,2008,Artisan Cooperative,09-08-2022,9/26/2022,9/25/2022,10,5,2,1,50
+9/29/2022,1009,5,11.99,1009,Bamboo Toothbrush Set,7,109,Los Angeles,2009,EcoBrush Co.,09-09-2022,9/28/2022,9/27/2022,20,20,10,5,69.95
+01-01-2022,1001,5,15.99,1001,Organic Cotton T-Shirt,7,1001,"New York, USA",1001,EcoFashion Inc.,01-05-2022,01-12-2022,01-10-2022,10,5,5,5,79.95
+01-02-2022,1002,3,24.99,1002,Sustainable Denim Jeans,10,1002,"Los Angeles, USA",1002,GreenDenim Co.,01-08-2022,1/18/2022,1/15/2022,8,3,3,3,74.97
+01-03-2022,1003,4,12.99,1003,Recycled Plastic Bottle,5,1003,"Chicago, USA",1003,EcoBottles Inc.,01-09-2022,1/14/2022,1/13/2022,12,4,4,4,55.96
+01-04-2022,1004,2,34.99,1004,Handmade Artisanal Rug,15,1004,"Mumbai, India",1004,Karigar Crafts,01-11-2022,1/26/2022,1/23/2022,6,2,2,2,119.98
+01-05-2022,1005,6,19.99,1005,Bamboo Toothbrush Set,3,1005,"Sydney, Australia",1005,EcoBamboo Co.,01-12-2022,1/15/2022,1/14/2022,15,6,6,6,119.94
+01-06-2022,1006,7,29.99,1006,Fair Trade Chocolate Box,12,1006,"Paris, France",1006,CocoaFair,1/13/2022,1/25/2022,1/22/2022,11,7,7,7,209.93
+01-07-2022,1007,8,17.99,1007,Recycled Paper Notebook,4,1007,"Rio de Janeiro, Brazil",1007,EcoPaper Co.,1/14/2022,1/17/2022,1/16/2022,18,8,8,8,143.92
+01-08-2022,1008,9,24.99,1008,Sustainable Bamboo Cutting Board,8,1008,"Tokyo, Japan",1008,EcoBamboo Co. Japan,1/15/2022,1/23/2022,1/20/2022,19,9,9,9,224.91
+01-09-2022,1009,10,39.99,1009,Handmade Ceramic Mug,14,1009,"Cape Town, South Africa",1009,Ceramic Craftsmen,1/16/2022,1/29/2022,1/26/2022,20,10,10,10,439.98
+09-01-2022,1001,25,12.99,1001,Organic Cotton T-Shirt,14,1001,New York,1002,Green Earth Inc.,8/15/2022,8/29/2022,09-01-2022,50,25,50,75,324.75
+09-02-2022,1002,18,15.99,1002,Recycled Denim Jacket,12,1002,Los Angeles,1003,Blue Horizon,8/20/2022,8/31/2022,09-02-2022,30,15,30,45,674.65
+09-03-2022,1003,22,9.99,1003,Fair Trade Coffee,7,1003,Chicago,1004,Fair Trade Co.,8/25/2022,8/30/2022,09-03-2022,60,30,60,90,599.4
+09-04-2022,1004,15,19.99,1004,Handwoven Basket,10,1004,Miami,1005,Artisan Crafts,8/22/2022,8/30/2022,09-04-2022,40,20,40,60,899.7
+09-05-2022,1005,20,14.99,1005,Eco-friendly Notebook,9,1005,Seattle,1006,Eco-Friendly Supplies,8/28/2022,09-01-2022,09-05-2022,70,35,70,100,1499.5
+09-06-2022,1006,12,24.99,1006,Bamboo Toothbrush Set,11,1006,Boston,1007,Green Living,8/27/2022,09-01-2022,09-06-2022,50,25,50,75,1249.75
+09-07-2022,1007,17,17.99,1007,Organic Cotton Socks,8,1007,San Francisco,1008,Eco-Friendly Socks,8/26/2022,8/31/2022,09-07-2022,45,15,45,60,839.65
+09-08-2022,1008,19,11.99,1008,Fair Trade Chocolate,6,1008,New York,1009,Fair Trade Chocolate Co.,8/24/2022,8/29/2022,09-08-2022,55,25,55,75,699.75
+09-09-2022,1009,25,16.99,1009,Recycled Plastic Water Bottle,13,1009,Los Angeles,1010,Green Bottles,8/23/2022,09-01-2022,09-09-2022,60,30,60,90,1079.5
+06-01-2022,10001,5,12.99,101,Organic Cotton T-Shirt,7,1,New York,101,Green Earth Apparel,5/20/2022,5/27/2022,06-01-2022,12,5,10,15,64.95
+06-02-2022,10002,3,19.99,102,Handwoven Basket,14,2,Los Angeles,102,Fair Trade Baskets,5/25/2022,06-08-2022,06-02-2022,8,3,5,8,59.94
+06-03-2022,10003,7,24.99,103,Artisanal Soap Set,10,3,Chicago,103,Natural Soap Co.,5/28/2022,06-07-2022,06-03-2022,15,7,8,10,174.93
+06-04-2022,10004,2,49.99,104,Handmade Quilt,21,4,Miami,104,Quilted Dreams,5/22/2022,06-10-2022,06-04-2022,10,4,6,8,99.98
+06-05-2022,10005,4,14.99,105,Bamboo Toothbrush Set,5,5,Houston,105,Eco-Friendly Brushes,5/26/2022,5/31/2022,06-05-2022,18,12,15,20,69.96
+06-06-2022,10006,6,29.99,106,Handmade Ceramic Mug,12,6,Boston,106,Ceramic Artisans,5/27/2022,06-09-2022,06-06-2022,13,8,10,12,179.94
+06-07-2022,10007,1,99.99,107,Handcrafted Leather Jacket,28,7,Seattle,107,Leather Craftsmen,5/23/2022,6/15/2022,06-07-2022,5,3,4,5,499.95
+06-08-2022,10008,0,24.99,108,Handwoven Rugs,18,8,Philadelphia,108,Rug Weavers,5/24/2022,06-12-2022,06-08-2022,12,6,7,8,194.92
+06-09-2022,10009,0,19.99,109,Handmade Glass Vases,15,9,Denver,109,Glass Artisans,5/26/2022,06-11-2022,06-09-2022,15,10,12,15,349.85
